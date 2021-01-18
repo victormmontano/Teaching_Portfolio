@@ -8,3 +8,6 @@ This video walks through the sequence of steps for a beginner program on Snap.
 ## Repeat Program Walkthrough
 This video walks through the sequence of steps for a program on Snap focused on the use of repeats.
 [![Watch the video](https://img.youtube.com/vi/C9bDsJUk1bs/maxresdefault.jpg)](https://youtu.be/C9bDsJUk1bs)
+
+## Scratch Game Lesson Slides
+https://docs.google.com/presentation/d/1CuXkeOUOPsiGKGyKpgiMuKwFzkVwPL9-OWQA9Mr_mGw/edit?usp=sharing
